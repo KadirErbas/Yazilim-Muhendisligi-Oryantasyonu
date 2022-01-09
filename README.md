@@ -1,1 +1,0 @@
-# Yazilim-Muhendisligi-Oryantasyonu
