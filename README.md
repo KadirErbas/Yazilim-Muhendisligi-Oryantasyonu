@@ -1,3 +1,3 @@
 # Yazilim-Muhendisligi-Oryantasyonu
 
-  Fırat ÜniversitesiYazılım Mühendisliği Oryantasyonu kapsamında yapılan ödevdir.
+  Fırat Üniversitesi Yazılım Mühendisliği Oryantasyonu kapsamında yapılan ödevdir.
